@@ -1,0 +1,612 @@
+!SESSION 2018-04-02 19:42:19.529 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-02 19:44:27.923
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2018-04-02 20:14:05.397
+!MESSAGE An error occurred while committing the engine session for profile: epp.package.java.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2018-04-02 20:14:05.397
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Collect phase.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.getProfileDataDirectory(EngineSession.java:78)
+	at org.eclipse.equinox.internal.p2.engine.Phase.prePerform(Phase.java:114)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:230)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:179)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:86)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:45)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:175)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:79)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2018-04-02 20:15:29.995 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-02 20:15:47.270
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-04-07 23:21:22.687 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-07 23:22:29.230
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-04-08 22:38:50.037 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-08 22:39:41.110
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-04-17 23:08:59.345 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-17 23:11:40.627
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-05-07 10:40:13.876 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-07 10:43:48.765
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 2 2 2018-05-07 11:21:22.383
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader
+
+!ENTRY org.eclipse.core.jobs 2 2 2018-05-07 11:21:22.410
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2018-05-07 11:21:22.410
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.equinox.p2.operations.ProfileModificationJob
+!SESSION 2018-05-07 11:21:48.782 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-07 11:22:11.498
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-05-07 11:32:19.774 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/E:/Workspace/ -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-07 11:32:38.543
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.buildship.core 2 0 2018-05-07 12:02:02.176
+!MESSAGE Launching Gradle Tests failed due to an error connecting to the Gradle build.
+!STACK 0
+org.gradle.tooling.TestExecutionException: Could not execute tests using Gradle distribution 'https://services.gradle.org/distributions/gradle-4.3-bin.zip'.
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:49)
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:29)
+	at org.gradle.tooling.internal.consumer.ResultHandlerAdapter.onFailure(ResultHandlerAdapter.java:41)
+	at org.gradle.tooling.internal.consumer.async.DefaultAsyncConsumerActionExecutor$1$1.run(DefaultAsyncConsumerActionExecutor.java:57)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+	at java.base/java.lang.Thread.run(Unknown Source)
+	at org.gradle.tooling.internal.consumer.BlockingResultHandler.getResult(BlockingResultHandler.java:46)
+	at org.gradle.tooling.internal.consumer.DefaultTestLauncher.run(DefaultTestLauncher.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.buildship.core.workspace.internal.ConnectionAwareLauncherProxy.invokeRun(ConnectionAwareLauncherProxy.java:170)
+	at org.eclipse.buildship.core.workspace.internal.ConnectionAwareLauncherProxy.invoke(ConnectionAwareLauncherProxy.java:160)
+	at com.sun.proxy.$Proxy51.run(Unknown Source)
+	at org.eclipse.buildship.core.launch.RunGradleJvmTestLaunchRequestJob.executeLaunch(RunGradleJvmTestLaunchRequestJob.java:85)
+	at org.eclipse.buildship.core.launch.RunGradleJvmTestLaunchRequestJob.executeLaunch(RunGradleJvmTestLaunchRequestJob.java:41)
+	at org.eclipse.buildship.core.launch.BaseLaunchRequestJob.runToolingApiJob(BaseLaunchRequestJob.java:82)
+	at org.eclipse.buildship.core.util.progress.ToolingApiJob$1.run(ToolingApiJob.java:73)
+	at org.eclipse.buildship.core.util.progress.ToolingApiInvoker.invoke(ToolingApiInvoker.java:62)
+	at org.eclipse.buildship.core.util.progress.ToolingApiJob.run(ToolingApiJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: org.gradle.api.tasks.testing.TestExecutionException: No matching tests found in any candidate test task.
+    Requested tests:
+        Test method TestNG.FirstTestCase.main()
+	at org.gradle.tooling.internal.provider.runner.TestExecutionResultEvaluator.evaluate(TestExecutionResultEvaluator.java:68)
+	at org.gradle.tooling.internal.provider.runner.TestExecutionRequestActionRunner.run(TestExecutionRequestActionRunner.java:59)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.tooling.internal.provider.ValidatingBuildActionRunner.run(ValidatingBuildActionRunner.java:32)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner$1.run(RunAsBuildOperationBuildActionRunner.java:43)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:199)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:110)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner.run(RunAsBuildOperationBuildActionRunner.java:40)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionRunner.run(SubscribableBuildActionRunner.java:51)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:47)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:30)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:39)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:80)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:53)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:57)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:32)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:43)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:64)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:59)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:44)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:45)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:30)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:67)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:26)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:34)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:74)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:72)
+	at org.gradle.util.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:72)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:62)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:82)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:122)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:50)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:295)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 12:11:03.061
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62414 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-105663593\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 62414 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-105663593\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 12:12:09.674
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62422 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--1297977016\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 62422 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--1297977016\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 12:13:04.366
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62431 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--1497064052\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 62431 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--1497064052\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 12:14:10.782
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62475 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--2082359074\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 62475 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--2082359074\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 12:18:55.270
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62622 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--1557547895\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 62622 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--1557547895\testng-customsuite.xml
+!SESSION 2018-05-07 13:35:24.728 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-07 13:36:54.155
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 13:46:21.010
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49459 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--395132288\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 49459 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--395132288\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 14:11:58.327
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49823 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--563846063\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 49823 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--563846063\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 15:31:39.553
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar C:\Program Files\Java\jre-10\lib\jrt-fs.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50560 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--469348384\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:C:\Program Files\Java\jre-10\lib\jrt-fs.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 50560 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--469348384\testng-customsuite.xml
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2018-05-07 15:34:34.461
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:132)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.addRepository(CachingRepositoryManager.java:425)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at jdk.internal.reflect.GeneratedMethodAccessor77.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:216)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:199)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:280)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:784)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:142)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:179)
+	at org.eclipse.equinox.p2.operations.UpdateOperation$1.run(UpdateOperation.java:323)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:37)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:115)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:117)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:98)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater$6.run(AutomaticUpdater.java:359)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:989)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:564)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1016)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:27)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getSharedPreferences(AbstractRepositoryManager.java:512)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1016)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:117)
+	at jdk.internal.reflect.GeneratedMethodAccessor78.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	... 32 more
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2018-05-07 15:34:34.464
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.IllegalArgumentException: Cache manager service not available
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:65)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at jdk.internal.reflect.GeneratedMethodAccessor77.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:216)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:199)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:280)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:784)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:142)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:179)
+	at org.eclipse.equinox.p2.operations.UpdateOperation$1.run(UpdateOperation.java:323)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:37)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:115)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:117)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:98)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater$6.run(AutomaticUpdater.java:359)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2018-05-07 15:34:34.471
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.XZedRepository
+!STACK 0
+java.lang.IllegalArgumentException: Cache manager service not available
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.getLocalFile(XZedSimpleMetadataRepositoryFactory.java:55)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.load(XZedSimpleMetadataRepositoryFactory.java:78)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at jdk.internal.reflect.GeneratedMethodAccessor77.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:216)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:199)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:280)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:784)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:142)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:179)
+	at org.eclipse.equinox.p2.operations.UpdateOperation$1.run(UpdateOperation.java:323)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:37)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:115)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:117)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:98)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater$6.run(AutomaticUpdater.java:359)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2018-05-07 15:34:34.489
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.metadataRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:36)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.loadRepository(UpdateSiteMetadataRepositoryFactory.java:86)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:57)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at jdk.internal.reflect.GeneratedMethodAccessor77.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:216)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:199)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:280)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:784)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:142)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:179)
+	at org.eclipse.equinox.p2.operations.UpdateOperation$1.run(UpdateOperation.java:323)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:37)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:115)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:117)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:98)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater$6.run(AutomaticUpdater.java:359)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.core.jobs 4 2 2018-05-07 15:34:34.492
+!MESSAGE An internal error occurred during: "Update validate job".
+!STACK 0
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:132)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.addRepository(CachingRepositoryManager.java:369)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:180)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:216)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:199)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:280)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:784)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:142)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:179)
+	at org.eclipse.equinox.p2.operations.UpdateOperation$1.run(UpdateOperation.java:323)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:37)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:115)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:117)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater.updatesAvailable(AutomaticUpdater.java:98)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdater$6.run(AutomaticUpdater.java:359)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:989)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:564)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1016)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:27)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:497)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:879)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:170)
+	at jdk.internal.reflect.GeneratedMethodAccessor73.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	... 18 more
+!SESSION 2018-05-07 15:34:35.343 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/E:/Workspace/ -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-07 15:34:57.200
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 15:40:31.236
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50801 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-264521534\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 50801 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-264521534\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 15:51:10.401
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50904 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-1463101370\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 50904 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-1463101370\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 15:52:50.106
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51010 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-2115974281\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 51010 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-2115974281\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 18:02:50.262
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52169 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-2137137270\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 52169 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-2137137270\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-07 18:05:41.254
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52258 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-153450207\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 52258 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-153450207\testng-customsuite.xml
+!SESSION 2018-05-13 11:47:00.163 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-13 11:48:22.313
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-05-13 11:48:46.109
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62019 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-187747425\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 62019 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-187747425\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-13 12:11:25.535
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53235 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-286577510\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 53235 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse-286577510\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-05-13 12:13:45.295
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar E:\Workspace\Learning\bin E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53512 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--314938263\testng-customsuite.xml
+java -ea -classpath E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi\513\0\.cp\lib\testng-remote.jar:E:\Workspace\Learning\bin:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.testng_6.14.3.r201802240500.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\com.beust.jcommander_1.72.0.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:E:\Soft\Eclipse\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0.jar:E:\Soft\selenium-java-3.11.0\client-combined-3.11.0-sources.jar:E:\Soft\selenium-java-3.11.0\libs\byte-buddy-1.7.9.jar:E:\Soft\selenium-java-3.11.0\libs\commons-codec-1.10.jar:E:\Soft\selenium-java-3.11.0\libs\commons-exec-1.3.jar:E:\Soft\selenium-java-3.11.0\libs\commons-logging-1.2.jar:E:\Soft\selenium-java-3.11.0\libs\gson-2.8.2.jar:E:\Soft\selenium-java-3.11.0\libs\guava-23.6-jre.jar:E:\Soft\selenium-java-3.11.0\libs\httpclient-4.5.3.jar:E:\Soft\selenium-java-3.11.0\libs\httpcore-4.4.6.jar:E:\Soft\selenium-java-3.11.0\libs\okhttp-3.9.1.jar:E:\Soft\selenium-java-3.11.0\libs\okio-1.13.0.jar org.testng.remote.RemoteTestNG -serport 53512 -protocol json -d E:\Workspace\Learning\test-output C:\Users\NHANTR~1\AppData\Local\Temp\testng-eclipse--314938263\testng-customsuite.xml
+!SESSION 2018-05-19 16:11:38.797 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-19 16:20:30.698
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-06-02 18:09:11.589 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-06-02 18:10:38.397
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nhan Tran'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

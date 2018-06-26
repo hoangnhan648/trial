@@ -1,0 +1,5 @@
+Element E: ~ div, input
+
+Example:
+Locate 3 tasks to http://todomvc.com/examples/react/#/
+//ul[@class='todo-list']//label[.='%s']

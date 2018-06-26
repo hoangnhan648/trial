@@ -1,0 +1,4 @@
+Có 3 cách chia ra l?p trình:
+1: String: Nhu?c diêm: ko bi?t find element theo ki?u nào: xpath, id, name..
+2: By:
+3. @FindBy: Hay g?p null point exception
